@@ -1,4 +1,4 @@
-module go-restaurant-tcp-shared
+module github.com/phankieuphu/go-tcp-restaurant-shared
 
 go 1.23.3
 
